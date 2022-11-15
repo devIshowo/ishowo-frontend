@@ -57,7 +57,6 @@
     "moment": "^2.29.4",
     "ng-click-outside": "^6.0.0",
     "ng-number-formatter": "^1.5.0",
-    "ng-snotify": "^13.0.1",
     "ng2-dragula": "^3.0.2",
     "ng2-nouislider": "^1.8.2",
     "ngx-bar-rating": "^1.1.0",
