@@ -77,7 +77,7 @@
       "path": "^0.12.7",
       "peity": "^3.3.0",
       "rxjs": "^7.5.0",
-      "rxjs-compat": "^6.6.3",
+      "rxjs-compat": "^7.5.0",
       "screenfull": "^5.0.2",
       "sweetalert2": "^10.0.0",
       "tinymce": "^4.8.3",
